@@ -1,0 +1,3 @@
+# fnordeingang_evoke_talk
+
+Talk about Evoke 2018. This will sum up some impressions...
